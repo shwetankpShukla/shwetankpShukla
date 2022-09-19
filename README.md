@@ -4,7 +4,7 @@ JAVA J2EE specialist with around 6 years of professional experience in Web devel
 Corporate Banking, Retail Banking, Core
 Banking
 
-[Backend].
+[Backend + Frontend].
 
 I have accomplished my projects using the below-mentioned technologies
 1)Spring MVC + Spring Data JPA + Hibernate + Angular 8

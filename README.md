@@ -7,7 +7,7 @@ Banking
 [Backend + Frontend].
 
 I have accomplished my projects using the below-mentioned technologies
-1)Spring MVC + Spring Data JPA + Hibernate + Angular 8
+1)Spring MVC + Spring Data JPA + Hibernate + Angular 14
 2)Spring MVC+ Hibernate + JSP
 3) Java 8 + JSP + Bootstrap
 
